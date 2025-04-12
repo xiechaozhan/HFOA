@@ -170,7 +170,7 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
-			<version>3.12</version>
+			<version>5.4.0</version>
 		</dependency>
 
 		<dependency>
@@ -394,7 +394,7 @@
 				        <source>1.7</source>
 				        <target>1.7</target>
 				        <compilerArguments>
-				          <verbose />
+				          <verbose/>
 				          <bootclasspath>${JAVA_HOME}/jre/lib/rt.jar:${JAVA_HOME}/jre/lib/jce.jar</bootclasspath>
 				        </compilerArguments>
 					</configuration>
